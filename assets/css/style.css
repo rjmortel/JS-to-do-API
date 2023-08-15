@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Caveat&display=swap");
+
+.bg-img {
+  background: url(/assets/images/Paper\ BG.jpg) no-repeat center center fixed;
+  height: 100vh;
+}
+
+h1 {
+  font-family: "Architects Daughter", cursive;
+  font-family: "Caveat", cursive;
+}
+p {
+  font-size: xx-large;
+  font-family: "Architects Daughter", cursive;
+  font-family: "Caveat", cursive;
+}
+
+.text {
+  font-size: large;
+  font-family: "Architects Daughter", cursive;
+  font-family: "Caveat", cursive;
+}
+
+.btn {
+  font-size: large;
+  font-family: "Architects Daughter", cursive;
+  font-family: "Caveat", cursive;
+}
